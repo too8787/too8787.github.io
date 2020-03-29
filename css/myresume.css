@@ -21,8 +21,9 @@ h1 .text-primary {
 }
 
 .bg-primary {
-	background-color: #4028EB!important;
-	background-image: url("img/otis-redding.png");
+	background-color: #5d96c2;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+
 }
 
 .text-primary {
