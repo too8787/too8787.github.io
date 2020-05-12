@@ -7,23 +7,23 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform: none;
 }
 
-div.tom {
+div.wb {
 	margin:5px;
 	float:center;
 	width:300px;
 	background-color: #9BCCE8;
 }
-div#flex_tom{
+div#flex_wb{
 	display: flex;
 	justify-content: flex-start;
 	flex-wrap: wrap;
 	flex-direction: row;
 }
-div.tom img{
+div.wb img{
 	width:100%;
 	height:auto;
 }
-div.jerry{
+div.wb{
 	padding:0;
 	text-align:center;
 }
